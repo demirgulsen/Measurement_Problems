@@ -1,6 +1,5 @@
-#### TR: 
-
 ## Measurement Projects
+### TR: 
 ##### Bu repo, Miuul Data Scientist Bootcamp kapsamında gerçekleştirilen Measurement Problems eğitimine ait uygulamaları içermektedir. Eğitim sürecinde veri bilimi ve istatistik alanında ölçümleme tekniklerini ele alan iki farklı projeyi içermektedir. Aşağıda projelerin detaylarını ve nasıl çalıştırılacaklarını bulabilirsiniz.
 
 ### 1. A/B Testi Çalışması: "Deneme Yoluyla İş Stratejilerini Optimize Etmek"
@@ -23,7 +22,7 @@ Ağırlıklı Puanlama:
 - Kullanıcı davranışlarına göre dinamik ağırlıklar.
 Sıralama Algoritması: En doğru sıralamayı belirlemek için özel bir sistem tasarlandı.
 
-#### ENG: 
+### ENG: 
 ##### This repo contains the applications of the Measurement Problems training conducted as part of the Miuul Data Scientist Bootcamp. It contains two different projects dealing with measurement techniques in data science and statistics. Below you can find the details of the projects and how to run them.
 
 #### 1. A/B Testing: “Optimizing Business Strategies through Experimentation”
