@@ -1,8 +1,10 @@
-## Measurement Projects
-Bu repo, veri bilimi ve istatistik alanında ölçüm tekniklerini ele alan iki farklı projeyi içermektedir. Aşağıda projelerin detaylarını ve nasıl çalıştırılacaklarını bulabilirsiniz.
+#### TR: 
 
-### 1. A/B Testi Çalışması: "Optimizing Business Strategies Through Experimentation"
-Bu projede, A/B testi yöntemini kullanarak bir ürün veya hizmet için farklı varyasyonların performansını değerlendirdik. Çalışma, şu adımları içermektedir:
+## Measurement Projects
+##### Bu repo, Miuul Data Scientist Bootcamp kapsamında gerçekleştirilen Measurement Problems eğitimine ait uygulamaları içermektedir. Eğitim sürecinde veri bilimi ve istatistik alanında ölçümleme tekniklerini ele alan iki farklı projeyi içermektedir. Aşağıda projelerin detaylarını ve nasıl çalıştırılacaklarını bulabilirsiniz.
+
+### 1. A/B Testi Çalışması: "Deneme Yoluyla İş Stratejilerini Optimize Etmek"
+Bu proje, A/B testi yöntemini kullanarak bir ürün veya hizmet için farklı varyasyonların performanslarının değerlendirmesini içermektedir. Çalışma, şu adımları içermektedir:
 
 Problem Tanımı: Hangi varyasyon daha yüksek dönüşüm oranına sahip?
 Veri Hazırlama: Eksik değerler ve uç değerlerin yönetimi.
@@ -20,4 +22,26 @@ Ağırlıklı Puanlama:
 - Yorumlar arasında dengeyi sağlayarak güvenilir puanlama sistemi oluşturma.
 - Kullanıcı davranışlarına göre dinamik ağırlıklar.
 Sıralama Algoritması: En doğru sıralamayı belirlemek için özel bir sistem tasarlandı.
-Sonuç Görselleştirme: Öne çıkan ürünler ve kullanıcı dostu öneriler.
+
+#### ENG: 
+##### This repo contains the applications of the Measurement Problems training conducted as part of the Miuul Data Scientist Bootcamp. It contains two different projects dealing with measurement techniques in data science and statistics. Below you can find the details of the projects and how to run them.
+
+#### 1. A/B Testing: “Optimizing Business Strategies through Experimentation”
+This project involves evaluating the performance of different variations of a product or service using A/B testing. The work includes the following steps:
+
+Problem Definition: Which variation has a higher conversion rate?
+Data Preparation: Managing missing values and outliers.
+Hypothesis Testing:
+- Checking assumptions (Normality and Homogeneity of Variance).
+- Application of statistical tests (t-test, Mann-Whitney U).
+Interpretation of Results: Which variation is more effective and recommendations.
+
+
+### 2. Amazon Product Rating and Review Ranking Study
+In this project, we focused on Amazon product reviews to rank reviews with weighted scores and improve the product evaluation process. The steps are as follows:
+
+Data Preparation: Cleaning review texts and extracting key features.
+Weighted Scoring:
+- Balancing across reviews to create a reliable scoring system.
+- Dynamic weights based on user behavior.
+Ranking Algorithm: A specialized system designed to determine the most accurate ranking.
