@@ -85,11 +85,6 @@ df['overall'].mean()
 # Elde edilen sonuç : 4.587589013224822
 
 ###################################################
-# Adım 3: Ağırlıklandırılmış puanlamada her bir zaman diliminin ortalamasını karşılaştırıp yorumlayınız.
-###################################################
-
-
-###################################################
 # Görev 2: Ürün için Ürün Detay Sayfasında Görüntülenecek 20 Review'i Belirleyiniz.
 ###################################################
 ###################################################
